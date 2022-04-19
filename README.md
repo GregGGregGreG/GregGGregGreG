@@ -1,5 +1,5 @@
 ```
-val andriiostapenko = developer {
+var andriiostapenko = developer {
     about {
         name = "Andrii Ostapenko"
         company = EPAM
